@@ -31,7 +31,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>About</title>
+<title>About Us</title>
 
 <style>
   #carouselExampleDark {
@@ -103,8 +103,8 @@
     <div class="carousel-item" data-bs-interval="2000" >
       <img src="images/strawberry-fruit-cake-fresh-strawberry-wooden-table.jpg" class="d-block w-100" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
-        <h5 style="color:black; ">Second Slide Label</h5>
-        <p style="color:black">Some representative placeholder content for the second slide.</p>
+        <h5 style="color:black; ">Strawberry Shortcake</h5>
+        <p style="color:black">Makes a wonderful summertime Birthday cake.</p>
       </div>
     </div>
     <div class="carousel-item">
