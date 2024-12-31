@@ -127,7 +127,7 @@
 <br/>
 <button popovertarget="my-popover" id="button" >Click</button>
 
-<div popover id="my-popover"  style="position: position: sticky; top: 0;">Happy Winter Holidays!</div>
+<div popover id="my-popover"  style="position: sticky; top: 0;">Happy Winter Holidays!</div>
 
 
 <div class="container">
